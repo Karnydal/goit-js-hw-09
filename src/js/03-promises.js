@@ -50,5 +50,6 @@ function onFormClick(event) {
           }
         );
       });
+    formEl.reset();
   });
 }
